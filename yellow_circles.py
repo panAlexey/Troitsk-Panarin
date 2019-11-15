@@ -1,3 +1,5 @@
+# https://github.com/panAlexey/Troitsk-Panarin/blob/master/yellow_circles.py
+# 60998c9
 import sys
 from PyQt5 import uic
 from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow
